@@ -1,2 +1,2 @@
-# java-chatbox
+# CatBot
 Command line chatbox in java
