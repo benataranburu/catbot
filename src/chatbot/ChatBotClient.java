@@ -25,7 +25,7 @@ public class ChatBotClient {
 				System.out.println("Initializing bank!...");
 				ChatBank bank = new ChatBank();
 				bank.start();
-			else if (inString.equals("sport")) {
+			} else if (inString.equals("sport")) {
 				System.out.println("Initializing sport!...");
 				ChatSport sport = new ChatSport();
 				sport.start();
